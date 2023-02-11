@@ -1,17 +1,37 @@
 on:
   rss:
-    url: https://hnrss.org/newest?points=300&count=3
+    url:
+      - https://api.feeddd.org/feeds/6131e13e1269c358aa0e1317
+      - https://api.feeddd.org/feeds/628c2faca4ca6e10e398a80d
+      - https://api.feeddd.org/feeds/616054d09b888e41f5cb0e48
+      - https://api.feeddd.org/feeds/622968880cf8ee380b17850f
+      - https://api.feeddd.org/feeds/616102e59b888e41f5cb5ebb
+      - https://api.feeddd.org/feeds/6135d59f1269c358aa0f2f13
+      - https://api.feeddd.org/feeds/613381f91269c358aa0ead49
+      - https://api.feeddd.org/feeds/6150f3831269c358aa13a073
+      - https://api.feeddd.org/feeds/6131e1411269c358aa0e19f9
+      - https://api.feeddd.org/feeds/62cf4ecba4ca6e10e3e07c6d
+      - https://api.feeddd.org/feeds/637e3ebbe1190840779cf349
+      - https://api.feeddd.org/feeds/637e3ebbe1190840779cf341
+      - https://api.feeddd.org/feeds/61285e90221f954f5e111727
+      - https://api.feeddd.org/feeds/6253ad1aa4ca6e10e363c506
+      - https://api.feeddd.org/feeds/63e5301de1190840779d98e0
+      - https://api.feeddd.org/feeds/616054da9b888e41f5cb1ea0
+      - https://api.feeddd.org/feeds/6150f3871269c358aa13a863
+      
 jobs:
-  print:
-    name: Print
+  request:
+    name: Make a HTTP Request
     runs-on: ubuntu-latest
     steps:
-      - name: Print Outputs
-        env:
-          title: ${{on.rss.outputs.title}}
-          contentSnippet: ${{on.rss.outputs.contentSnippet}}
-          link: ${{on.rss.outputs.link}}
-        run: |
-          echo title: $title
-          echo contentSnippet: $contentSnippet
-          echo link: $link
+      - name: Make a HTTP Request
+        uses: actionsflow/axios@v1
+        with:
+          url: https://cubox.pro/c/api/save/urkku3lfxko377
+          method: POST
+          body: |
+            {
+              "type":"url",
+              "content":"${{ on.rss.outputs.link }}", 
+              "title": "${{ on.rss.outputs.title }}"
+            }
