@@ -2,7 +2,6 @@ on:
   rss:
     url:
       - https://api.feeddd.org/feeds/6131e13e1269c358aa0e1317
-      - https://api.feeddd.org/feeds/628c2faca4ca6e10e398a80d
       - https://api.feeddd.org/feeds/616054d09b888e41f5cb0e48
       - https://api.feeddd.org/feeds/622968880cf8ee380b17850f
       - https://api.feeddd.org/feeds/616102e59b888e41f5cb5ebb
