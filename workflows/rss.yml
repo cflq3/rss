@@ -18,6 +18,8 @@ on:
       - https://api.feeddd.org/feeds/616054da9b888e41f5cb1ea0
       - https://api.feeddd.org/feeds/6150f3871269c358aa13a863
       - https://api.feeddd.org/feeds/616102e19b888e41f5cb59ab
+      - https://api.feeddd.org/feeds/629242d8a4ca6e10e39ed5f5
+      - http://103.152.113.112:1200/zhihu/zhuanlan/c_1396461495899901955
       
 jobs:
   request:
