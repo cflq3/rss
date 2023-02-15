@@ -17,6 +17,7 @@ on:
       - https://api.feeddd.org/feeds/63e5301de1190840779d98e0
       - https://api.feeddd.org/feeds/616054da9b888e41f5cb1ea0
       - https://api.feeddd.org/feeds/6150f3871269c358aa13a863
+      - https://api.feeddd.org/feeds/616102e19b888e41f5cb59ab
       
 jobs:
   request:
