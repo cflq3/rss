@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Make a HTTP Request
-        uses: actionsflow/axios@v1
+        uses: actionsflow/axios@main
         with:
           url: ${{ secrets.CUBOX_API_SECRETS }}
           method: POST
