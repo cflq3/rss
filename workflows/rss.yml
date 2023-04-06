@@ -1,24 +1,24 @@
 on:
   rss:
     url:
-      - https://api.feeddd.org/feeds/6131e13e1269c358aa0e1317
-      - https://api.feeddd.org/feeds/616054d09b888e41f5cb0e48
-      - https://api.feeddd.org/feeds/622968880cf8ee380b17850f
-      - https://api.feeddd.org/feeds/616102e59b888e41f5cb5ebb
-      - https://api.feeddd.org/feeds/6135d59f1269c358aa0f2f13
-      - https://api.feeddd.org/feeds/613381f91269c358aa0ead49
-      - https://api.feeddd.org/feeds/6150f3831269c358aa13a073
-      - https://api.feeddd.org/feeds/6131e1411269c358aa0e19f9
-      - https://api.feeddd.org/feeds/62cf4ecba4ca6e10e3e07c6d
-      - https://api.feeddd.org/feeds/637e3ebbe1190840779cf349
-      - https://api.feeddd.org/feeds/637e3ebbe1190840779cf341
-      - https://api.feeddd.org/feeds/61285e90221f954f5e111727
-      - https://api.feeddd.org/feeds/6253ad1aa4ca6e10e363c506
-      - https://api.feeddd.org/feeds/63e5301de1190840779d98e0
-      - https://api.feeddd.org/feeds/616054da9b888e41f5cb1ea0
-      - https://api.feeddd.org/feeds/6150f3871269c358aa13a863
-      - https://api.feeddd.org/feeds/616102e19b888e41f5cb59ab
-      - https://api.feeddd.org/feeds/629242d8a4ca6e10e39ed5f5
+      - http://103.152.113.112:1200/wechat/feeddd/6131e13e1269c358aa0e1317
+      - http://103.152.113.112:1200/wechat/feeddd/616054d09b888e41f5cb0e48
+      - http://103.152.113.112:1200/wechat/feeddd/622968880cf8ee380b17850f
+      - http://103.152.113.112:1200/wechat/feeddd/616102e59b888e41f5cb5ebb
+      - http://103.152.113.112:1200/wechat/feeddd/6135d59f1269c358aa0f2f13
+      - http://103.152.113.112:1200/wechat/feeddd/613381f91269c358aa0ead49
+      - http://103.152.113.112:1200/wechat/feeddd/6150f3831269c358aa13a073
+      - http://103.152.113.112:1200/wechat/feeddd/6131e1411269c358aa0e19f9
+      - http://103.152.113.112:1200/wechat/feeddd/62cf4ecba4ca6e10e3e07c6d
+      - http://103.152.113.112:1200/wechat/feeddd/637e3ebbe1190840779cf349
+      - http://103.152.113.112:1200/wechat/feeddd/637e3ebbe1190840779cf341
+      - http://103.152.113.112:1200/wechat/feeddd/61285e90221f954f5e111727
+      - http://103.152.113.112:1200/wechat/feeddd/6253ad1aa4ca6e10e363c506
+      - http://103.152.113.112:1200/wechat/feeddd/63e5301de1190840779d98e0
+      - http://103.152.113.112:1200/wechat/feeddd/616054da9b888e41f5cb1ea0
+      - http://103.152.113.112:1200/wechat/feeddd/6150f3871269c358aa13a863
+      - http://103.152.113.112:1200/wechat/feeddd/616102e19b888e41f5cb59ab
+      - http://103.152.113.112:1200/wechat/feeddd/629242d8a4ca6e10e39ed5f5
       - http://103.152.113.112:1200/zhihu/zhuanlan/c_1396461495899901955
       
 jobs:
