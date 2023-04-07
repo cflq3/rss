@@ -18,7 +18,7 @@ on:
       - http://103.152.113.112:1200/wechat/feeddd/6150f3871269c358aa13a863
       - http://103.152.113.112:1200/wechat/feeddd/616102e19b888e41f5cb59ab
       - http://103.152.113.112:1200/wechat/feeddd/629242d8a4ca6e10e39ed5f5
-      - https://cdn.werss.weapp.design/api/v1/feeds/a66e1a93-adfc-4011-853c-aed8446e26c9.xml
+      - https://cdn.werss.weapp.design/api/v1/feeds/c2eb6f5c-f629-4301-ab87-20d7f111552e.xml
       - http://103.152.113.112:1200/zhihu/zhuanlan/c_1396461495899901955
       
 jobs:
