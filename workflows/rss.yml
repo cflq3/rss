@@ -1,7 +1,6 @@
 on:
   rss:
     url:
-      - https://cdn.werss.weapp.design/api/v1/feeds/4e38976b-a58b-4f6f-bc9c-e71950bbc7d8.xml
       - https://cdn.werss.weapp.design/api/v1/feeds/2705d88b-d31d-4d2c-b3bc-f338095c0165.xml
       - https://cdn.werss.weapp.design/api/v1/feeds/dc1a5b10-9f74-4802-8cb2-834ef78d609c.xml
       - https://cdn.werss.weapp.design/api/v1/feeds/ad4ac158-3f97-4fb0-be12-5a65f630db59.xml
