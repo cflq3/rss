@@ -18,7 +18,7 @@ on:
       - https://cdn.werss.weapp.design/api/v1/feeds/f017504b-0bb6-477c-bb4f-8ff4cfdfe888.xml
       - https://cdn.werss.weapp.design/api/v1/feeds/a8686f81-9218-4146-bc96-605db0a682a5.xml
       - https://cdn.werss.weapp.design/api/v1/feeds/c2eb6f5c-f629-4301-ab87-20d7f111552e.xml
-      - http://103.152.113.112:1200/zhihu/zhuanlan/c_1396461495899901955
+      - https://rss.0xn0p.org/zhihu/zhuanlan/c_1396461495899901955
       
 jobs:
   request:
