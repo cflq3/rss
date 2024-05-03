@@ -1,21 +1,22 @@
 on:
   rss:
     url:
-      - https://cdn.werss.weapp.design/api/v1/feeds/2705d88b-d31d-4d2c-b3bc-f338095c0165.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/dc1a5b10-9f74-4802-8cb2-834ef78d609c.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/ad4ac158-3f97-4fb0-be12-5a65f630db59.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/daedb361-8163-4bfa-b2de-5ea515b2fd5b.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/00c3d618-c911-4021-bc7b-cca681bf2ae3.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/c35f72f6-7bb7-422a-82a8-eaff5485660a.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/60461805-4009-4e0f-adb3-a70430c6c16e.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/0116d07f-4546-4802-95db-76f4d4369dc2.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/9737da14-9af3-4242-8e01-ac841cf7949d.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/89616726-e313-4132-8a20-3b0c719c18aa.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/877e20ea-9ddb-4dae-be85-1a30d0ea28ee.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/a8686f81-9218-4146-bc96-605db0a682a5.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/e844b3e2-9fdb-4538-aa73-11708372e8d5.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/58fd838b-7ea9-43de-843f-d465607c5110.xml
-      - https://cdn.werss.weapp.design/api/v1/feeds/73912f16-2de5-43d3-8644-31f1977ebd17.xml
+      - https://we-rss.0xn0p.org/feed/3285064611.xml
+      - https://we-rss.0xn0p.org/feed/3938617593.xml
+      - https://we-rss.0xn0p.org/feed/3281543765.xml
+      - https://we-rss.0xn0p.org/feed/3276423214.xml
+      - https://we-rss.0xn0p.org/feed/3217611549.xml
+      - https://we-rss.0xn0p.org/feed/3922393753.xml
+      - https://we-rss.0xn0p.org/feed/3863477301.xml
+      - https://we-rss.0xn0p.org/feed/3562460013.xml
+      - https://we-rss.0xn0p.org/feed/3201234304.xml
+      - https://we-rss.0xn0p.org/feed/3244090624.xml
+      - https://we-rss.0xn0p.org/feed/3086908177.xml
+      - https://we-rss.0xn0p.org/feed/3258424782.xml
+      - https://we-rss.0xn0p.org/feed/3897243887.xml
+      - https://we-rss.0xn0p.org/feed/3572504738.xml
+      - https://we-rss.0xn0p.org/feed/3863679550.xml
+      - https://we-rss.0xn0p.org/feed/3219615681.xml
       - https://rss.0xn0p.org/zhihu/zhuanlan/c_1396461495899901955
       
 jobs:
