@@ -17,6 +17,8 @@ on:
       - https://we-rss.0xn0p.org/feed/3572504738.xml
       - https://we-rss.0xn0p.org/feed/3863679550.xml
       - https://we-rss.0xn0p.org/feed/3219615681.xml
+      - http://we-rss.0xn0p.org/feed/3514448686.xml
+      - http://we-rss.0xn0p.org/feed/3924266231.xml
       - https://rss.0xn0p.org/zhihu/zhuanlan/c_1396461495899901955
       
 jobs:
