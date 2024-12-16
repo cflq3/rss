@@ -1,25 +1,23 @@
 on:
   rss:
     url:
-      - https://we-rss.0xn0p.org/feed/3285064611.xml
-      - https://we-rss.0xn0p.org/feed/3938617593.xml
-      - https://we-rss.0xn0p.org/feed/3281543765.xml
-      - https://we-rss.0xn0p.org/feed/3276423214.xml
-      - https://we-rss.0xn0p.org/feed/3217611549.xml
-      - https://we-rss.0xn0p.org/feed/3922393753.xml
-      - https://we-rss.0xn0p.org/feed/3863477301.xml
-      - https://we-rss.0xn0p.org/feed/3562460013.xml
-      - https://we-rss.0xn0p.org/feed/3201234304.xml
-      - https://we-rss.0xn0p.org/feed/3244090624.xml
-      - https://we-rss.0xn0p.org/feed/3086908177.xml
-      - https://we-rss.0xn0p.org/feed/3258424782.xml
-      - https://we-rss.0xn0p.org/feed/3897243887.xml
-      - https://we-rss.0xn0p.org/feed/3572504738.xml
-      - https://we-rss.0xn0p.org/feed/3863679550.xml
-      - https://we-rss.0xn0p.org/feed/3219615681.xml
-      - https://we-rss.0xn0p.org/feed/3514448686.xml
-      - https://we-rss.0xn0p.org/feed/3924266231.xml
-      - https://we-rss.0xn0p.org/feed/3924266231.xml
+      - https://we-rss.0xn0p.org:10000/feed/fa2d19251915790b584bcd2b2c6ab1f03aba20b3.xml
+      - https://we-rss.0xn0p.org:10000/feed/214e6de246a53f4f2c36f116341061971b822941.xml
+      - https://we-rss.0xn0p.org:10000/feed/6ffe51a9e8a7eefc84b45724d4c91dc9e4ae3a6b.xml
+      - https://we-rss.0xn0p.org:10000/feed/3da1b968a8a0b5bf14fceedd062d8d1bcec137d1.xml
+      - https://we-rss.0xn0p.org:10000/feed/15050f02448dd3a6a5833ba559a1a83c13269478.xml
+      - https://we-rss.0xn0p.org:10000/feed/9c17cd5e788e8debf6cac73df222d1f27fdfa747.xml
+      - https://we-rss.0xn0p.org:10000/feed/73414ba800259abd94777bb40e6840ddc7de0410.xml
+      - https://we-rss.0xn0p.org:10000/feed/0d0db7c582165bc7dc7db1a65a0b8d469b0f22d9.xml
+      - https://we-rss.0xn0p.org:10000/feed/7d2ad88b88056d8b4658442beab6898b66bd12fb.xml
+      - https://we-rss.0xn0p.org:10000/feed/233ed915d852db0ae179bf1e115a49603a8246a1.xml
+      - https://we-rss.0xn0p.org:10000/feed/cc34b550867a783c5a7c386f52da4dbcd7555700.xml
+      - https://we-rss.0xn0p.org:10000/feed/4eadd93444c2486807e701a0c1fa288fc5fccff9.xml
+      - https://we-rss.0xn0p.org:10000/feed/b41340f7707a618a0371aed7bd425af1bdf0ca58.xml
+      - https://we-rss.0xn0p.org:10000/feed/71d69dc9a0e8e48bd3d97bda2a485e6b8cbc8b1b.xml
+      - https://we-rss.0xn0p.org:10000/feed/3176e5908bac4436c8125fcb028f3e594b5777d9.xml
+      - https://we-rss.0xn0p.org:10000/feed/0637dd6a8fad87fa67c1c94a16ce68f3098900bc.xml
+      - https://we-rss.0xn0p.org:10000/feed/bff12fb364ae92ccc5ae510d5068a19886e0a490.xml
       
 jobs:
   request:
